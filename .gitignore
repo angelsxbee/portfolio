@@ -12,6 +12,9 @@
 
 # testing
 /coverage
+.hero.md
+.Prompt1.md
+.theme.md
 
 # next.js
 /.next/

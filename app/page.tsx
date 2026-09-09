@@ -1,3 +1,5 @@
-export default function App() {
-  return <h1>Hello World</h1>;
+import BackgroundRippleEffectDemo from "@/components/background-ripple-effect-demo";
+
+export default function Home() {
+  return <BackgroundRippleEffectDemo />;
 }
